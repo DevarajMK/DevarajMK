@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevarajMK
+- 👋 Hi, I’m Devaraj
 - 👀 I’m interested in developing application and creating solution using cloud mainly focused on AWS.
 - 🌱 I’m currently learning AWS.
 - 💞️ I’m looking to collaborate on any kind of solution or application that uses AWS.
